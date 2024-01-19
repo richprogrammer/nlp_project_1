@@ -1,1 +1,1 @@
-# Template to create folders
+# Template to create files and folders
