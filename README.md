@@ -1,1 +1,1 @@
-# Template to created folders
+# Template to create folders
